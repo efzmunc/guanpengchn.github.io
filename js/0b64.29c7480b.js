@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["0b64"],{"0b64":function(n,e,t){"use strict";t.r(e);var s=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{staticClass:"design"})},l=[],a=t("2877"),c={},i=Object(a["a"])(c,s,l,!1,null,null,null);e["default"]=i.exports}}]);
+//# sourceMappingURL=0b64.29c7480b.js.map
